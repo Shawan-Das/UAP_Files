@@ -1,0 +1,55 @@
+# Created by Octave 6.4.0, Mon Jan 24 09:42:05 2022 GMT <unknown@ShaDEX>
+# name: F0
+# type: scalar
+55
+
+
+# name: F1
+# type: scalar
+89
+
+
+# name: FN
+# type: matrix
+# rows: 1
+# columns: 13
+ 0 1 1 1 2 3 5 8 13 21 34 55 89
+
+
+# name: Fn
+# type: matrix
+# rows: 1
+# columns: 12
+ 0 1 1 2 3 5 8 13 21 34 55 89
+
+
+# name: SUM
+# type: scalar
+89
+
+
+# name: ans
+# type: scalar
+9
+
+
+# name: f0
+# type: scalar
+55
+
+
+# name: f1
+# type: scalar
+89
+
+
+# name: i
+# type: scalar
+10
+
+
+# name: sum
+# type: scalar
+89
+
+
